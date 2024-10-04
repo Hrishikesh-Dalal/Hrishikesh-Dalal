@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrishikesh-Dalal
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Web Dev
+- 🌱 I know web development
 - 💞️ I’m looking to collaborate on project in it
 - 📫 How to reach me 1010hrishikesh@gmail.com
 
