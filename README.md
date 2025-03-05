@@ -14,48 +14,46 @@ Software Developer passionate about building scalable applications and solving c
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![JavaScript](https://skillicons.dev/icons?i=js&theme=light)
+  ![Python](https://skillicons.dev/icons?i=python&theme=light)
+  ![Java](https://skillicons.dev/icons?i=java&theme=light)
+  ![C](https://skillicons.dev/icons?i=c&theme=light)
+  ![Dart](https://skillicons.dev/icons?i=dart&theme=light)
+  ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
+  ![PHP](https://skillicons.dev/icons?i=php&theme=light)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+### Development
+  ![React](https://skillicons.dev/icons?i=react&theme=light)
+  ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=light)
+  ![HTML](https://skillicons.dev/icons?i=html&theme=light)
+  ![CSS](https://skillicons.dev/icons?i=css&theme=light)
+  ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=light)
+  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light)
+  ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)
+  ![Express.js](https://skillicons.dev/icons?i=express&theme=light)
+  ![Flutter](https://skillicons.dev/icons?i=flutter&theme=light)
+  ![Android](https://skillicons.dev/icons?i=android&theme=light)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### Databases
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
+  ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
+  ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light)
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  ![Git](https://skillicons.dev/icons?i=git&theme=light)
+  ![Docker](https://skillicons.dev/icons?i=docker&theme=light)
+  ![Linux](https://skillicons.dev/icons?i=linux&theme=light)
+  ![Heroku](https://skillicons.dev/icons?i=heroku&theme=light)
+  ![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=light)
+  ![Postman](https://skillicons.dev/icons?i=postman&theme=light)
 
-### AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+### Machine Learning & Data Science
+  ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light)
+  ![Scikit-Learn](https://skillicons.dev/icons?i=scikit-learn&theme=light)
+  ![Hadoop](https://skillicons.dev/icons?i=hadoop&theme=light)
 
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### UI/UX & Design
+  ![Figma](https://skillicons.dev/icons?i=figma&theme=light)
 
 ## 📊 GitHub Stats
 
@@ -68,7 +66,6 @@ Software Developer passionate about building scalable applications and solving c
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikesh-dalal&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations or just a chat about technology! Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh-dalal-014b80271/).
