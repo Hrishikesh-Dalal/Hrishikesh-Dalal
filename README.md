@@ -1,12 +1,10 @@
 # Hrishikesh Dalal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-dalal-014b80271/)
-<!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/hrishikesh_dalal)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/1010hrishikesh)
 [![CodeChef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/skulk_plume_56)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/1010hrisi767/profile)
--->
 
 ## 💼 About Me
 Software Developer passionate about building scalable applications and solving complex problems. I enjoy working with various technologies and continually expanding my knowledge in the software development field.
