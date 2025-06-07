@@ -5,6 +5,8 @@
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/1010hrishikesh)
 [![CodeChef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/skulk_plume_56)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/1010hrisi767/profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hrishikesh-dalal.vercel.app/)
+
 
 ## 💼 About Me
 Software Developer passionate about building scalable applications and solving complex problems. I enjoy working with various technologies and continually expanding my knowledge in the software development field.
