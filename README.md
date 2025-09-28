@@ -71,6 +71,8 @@ Software Developer passionate about building scalable applications and solving c
 Feel free to reach out for collaborations or just a chat about technology! Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh-dalal-014b80271/).
 
 ---
+<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrishikesh-dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+-->
