@@ -78,6 +78,12 @@ Active roles in maintaining (examples, replace with real repos):
 
 Responsibilities: Code review • Issue triage • Security updates • Contributor onboarding • Release tagging.
 
+## Leetcode Stats
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrishikesh_Dalal&theme=black&border=no-border" alt="Leetcode Stats" />
+</p>
+
+
 
 ## 📊 GitHub Stats
 <p align="center">
