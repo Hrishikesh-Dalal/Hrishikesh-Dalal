@@ -81,6 +81,8 @@ Responsibilities: Code review • Issue triage • Security updates • Contribu
 ## Leetcode Stats
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrishikesh_Dalal&theme=black&border=no-border" alt="Leetcode Stats" />
+</br>
+  <img align="center" src="https://leetcard.jacoblin.cool/Hrishikesh_Dalal?font=Fira+Code&ext=heatmap" height="220"/>
 </p>
 
 
